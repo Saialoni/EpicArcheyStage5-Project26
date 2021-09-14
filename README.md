@@ -1,1 +1,1 @@
-# EpicArcheyStage5-Project26
+# project-C26-template
